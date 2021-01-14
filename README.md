@@ -17,5 +17,5 @@ Our manuscript describing the design and development of this tool can be found h
 
 ## Acknowledgments
 
-* We thank Svetlana Yazhuk from the OEB Platform Team (NIAID/NIH) for her surpport on deploying the app on Monarch platform 
+* We thank Svetlana Yazhuk from the OEB Platform Team (NIAID/NIH) for her support on deploying the app on Monarch platform 
 * The html template files for NIAID headers and footers come from TRIAGE (https://github.com/niaid/TRIAGE)
