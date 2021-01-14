@@ -3,7 +3,7 @@
 
 This tool is designed to distinguish baseline variability from anaphylaxis based upon individual variation in BST levels. It was developed by [Translational Allergic Immunopathology Unit](https://www.niaid.nih.gov/research/jonathan-lyons-md) in collaboration with [Bioinformatics and Computational Biosciences Branch (BCBB)](https://www.niaid.nih.gov/research/bioinformatics-computational-biosciences-branch).
 
-To access the tool: [development site](https://triptase-calculator.niaidawsdev.net/) or/and [production site](https://triptase-calculator.niaid.nih.gov/)(not available yet) 
+To access the tool: [development site](https://triptase-calculator.niaidawsdev.net/) or/and [production site](https://triptase-calculator.niaid.nih.gov/) (not available yet). 
 
 ## Contact
 For any questions regarding this tool, please contact:
